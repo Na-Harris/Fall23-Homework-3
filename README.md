@@ -1,6 +1,6 @@
-# Homework # 2 - Selection and Loops
+# Homework # 3 - Selection and Loops
 ## Overview
-This assignment is worth 20 points. Full Collaboration is authorized, however all work must be your own and you must understand everything submitted. Submit your code via GitHub classroom. 
+Full Collaboration is authorized, however all work must be your own and you must understand everything submitted. Submit your code via GitHub classroom. 
 
 ## Before you Start
 Ensure that you have read the lessons on [cplusplus.com](https://cplusplus.com/doc/tutorial/)
@@ -14,7 +14,7 @@ Write a program that prints your name on one line and TOOP HW2 on the second lin
 TOOP HW2
 ````
 ### [Variables and types](https://cplusplus.com/doc/tutorial/variables/) 
-Initialize a few variables for future use. You will need to decide which variable type is best for each file.
+Write a loop that presents the user with several options.
 - A variable called `inputFilename`. This is an arbitrary string that we will populate with an input file name or path later on. 
 - A variable called `line`. This is an arbitrary string that will hold a line read from the input file. 
 - A variable called `quantity`. This will be how much the user is buying of an item in whole numbers.
